@@ -11,13 +11,17 @@ Hi There👋 I am Jisu Lee, a server developer who enjoys implementing 🌟valua
 
 <img align="right" width="320" src="https://github.com/damda0904/damda0904/assets/67117391/c4d4c624-5de8-4c1f-9f8a-995c265772f7"/>
 
-<h3>💡 About Me</h3>
+<div>
  
-💻 I'm a first-year server developer working for the [WantedLab](https://www.wanted.co.kr/jobsfeed) Server Team <br/>
-🌱 I’m currently learning database(MySQL), FastAPI, and AWS<br/>
-📞 Coffee chat and project offers are always welcome!<br/>
-👉 Check on my [resume](https://www.notion.so/80403c3c847c4940a613df09db0052ec?pvs=4)<br/>
-⚡ Fun fact: I ❤️ to 🥖 bake something new
+ <h3>💡 About Me</h3>
+  
+ 💻 I'm a first-year server developer working for the [WantedLab](https://www.wanted.co.kr/jobsfeed) Server Team <br/>
+ 🌱 I’m currently learning database(MySQL), FastAPI, and AWS<br/>
+ 📞 Coffee chat and project offers are always welcome!<br/>
+ 👉 Check on my [resume](https://www.notion.so/80403c3c847c4940a613df09db0052ec?pvs=4)<br/>
+ ⚡ Fun fact: I ❤️ to 🥖 bake something new
+
+</div>
 
 <br/>
 <br/>
