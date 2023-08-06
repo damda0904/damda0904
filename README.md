@@ -13,6 +13,8 @@ Hi There👋 I am Jisu Lee, a server developer who enjoys implementing 🌟valua
 <div>
  
  <h3>💡 About Me</h3>
+
+ <img align="right" width="320" src="https://github.com/damda0904/damda0904/assets/67117391/c4d4c624-5de8-4c1f-9f8a-995c265772f7"/>
   
  💻 I'm a first-year server developer working for the [WantedLab](https://www.wanted.co.kr/jobsfeed) Server Team <br/>
  🌱 I’m currently learning database(MySQL), FastAPI, and AWS<br/>
