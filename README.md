@@ -9,7 +9,7 @@ Hi There👋 I am Jisu Lee, a server developer who enjoys implementing 🌟valua
 <br/>
 <br/>
 
-<img align="right" width="330" src="https://github.com/damda0904/damda0904/assets/67117391/c4d4c624-5de8-4c1f-9f8a-995c265772f7"/>
+<img align="right" width="320" src="https://github.com/damda0904/damda0904/assets/67117391/c4d4c624-5de8-4c1f-9f8a-995c265772f7"/>
 
 <h3>💡 About Me</h3>
  
