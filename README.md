@@ -35,11 +35,8 @@ Hi There👋 I am Jisu Lee, a server developer who enjoys implementing 🌟valua
 <div>
   <h3>🔧 Technologies & Tools</h3>
 
-  <img src="https://img.shields.io/badge/-AWS-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white"/>  <img src="https://img.shields.io/badge/-Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/-String_Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/>  <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  
-  <br/>
-  
+  <img src="https://img.shields.io/badge/-AWS-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/-Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/> <br/>
+  <img src="https://img.shields.io/badge/-FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/-String_Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <br/>
   <img src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-java-%23FC4C02?style=for-the-badge&logo=java&logoColor=white"/> 
 </div>
 
