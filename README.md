@@ -2,14 +2,12 @@
 Hi There👋 I am Jisu Lee, a server developer who enjoys implementing 🌟valuable service🌟!
 <br/>
 
-
 🤙 **Contact** : 
 <a href="https://velog.io/@suen0904"><img src="https://img.shields.io/badge/-Velog-%2320C997?logo=velog&logoColor=white"/></a> 
 <a href="https://suen0904.tistory.com/"><img src="https://img.shields.io/badge/-tistory-%23FA5858?logo=tistory&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/-jisulee.904@gmail.com-%23EA4335?logo=gmail&logoColor=white"/>
 <a href="https://www.notion.so/80403c3c847c4940a613df09db0052ec?pvs=4"><img src="https://img.shields.io/badge/-Resume-black?logo=notion&logoColor=white"/></a>
 
-<br/>
 <br/>
 
 
