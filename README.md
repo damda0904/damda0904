@@ -19,9 +19,9 @@ Hi There👋 I am Jisu Lee, a server developer who enjoys implementing 🌟valua
   
  💻 I'm a first-year server developer working for the [WantedLab](https://www.wanted.co.kr/jobsfeed) Server Team <br/>
  🌱 I’m currently learning database(MySQL), FastAPI, and AWS<br/>
- 📞 Coffee chat and project offers are always welcome!<br/>
+☕ Coffee chat and project offers are always welcome!<br/>
  👉 Check on my [resume](https://www.notion.so/80403c3c847c4940a613df09db0052ec?pvs=4)<br/>
- ⚡ Fun fact: I ❤️ to 🥖 bake something new
+ ⚡ Fun fact: I ❤️ to 🥖 bake something new 😋
 
 </div>
 
