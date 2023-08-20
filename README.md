@@ -6,7 +6,7 @@ Hi There👋 I am Jisu Lee, a server developer who enjoys implementing 🌟valua
 <a href="https://velog.io/@suen0904"><img src="https://img.shields.io/badge/-Velog-%2320C997?logo=velog&logoColor=white"/></a> 
 <a href="https://suen0904.tistory.com/"><img src="https://img.shields.io/badge/-tistory-%23FA5858?logo=tistory&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/-jisulee.904@gmail.com-%23EA4335?logo=gmail&logoColor=white"/>
-<a href="https://www.notion.so/80403c3c847c4940a613df09db0052ec?pvs=4"><img src="https://img.shields.io/badge/-Resume-black?logo=notion&logoColor=white"/></a>
+<a href="[https://www.notion.so/80403c3c847c4940a613df09db0052ec?pvs=4](https://daily-flame-77b.notion.site/80403c3c847c4940a613df09db0052ec?pvs=4)"><img src="https://img.shields.io/badge/-Resume-black?logo=notion&logoColor=white"/></a>
 
 <br/>
 
@@ -20,7 +20,7 @@ Hi There👋 I am Jisu Lee, a server developer who enjoys implementing 🌟valua
  💻 I'm a first-year server developer working for the [WantedLab](https://www.wanted.co.kr/jobsfeed) Server Team <br/>
  🌱 I’m currently learning database(MySQL), FastAPI, and AWS<br/>
 ☕ Coffee chat and project offers are always welcome!<br/>
- 👉 Check on my [resume](https://www.notion.so/80403c3c847c4940a613df09db0052ec?pvs=4)<br/>
+ 👉 Check on my [resume]([https://www.notion.so/80403c3c847c4940a613df09db0052ec?pvs=4](https://daily-flame-77b.notion.site/80403c3c847c4940a613df09db0052ec?pvs=4))<br/>
  ⚡ Fun fact: I ❤️ to 🥖 bake something new 😋
 
 </div>
